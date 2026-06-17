@@ -29,7 +29,7 @@
     </td>
     <td>
       <a href="https://github.com/kernelops">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kernelops&theme=github_dark" alt="GitHub Profile Details" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kernelops&theme=holi" alt="GitHub Profile Details" />
       </a>
     </td>
   </tr>
