@@ -24,12 +24,12 @@
   <tr>
     <td>
       <a href="https://github.com/kernelops">
-        <img src="https://streak-stats.demolab.com?user=kernelops&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=kernelops&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kernelops">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kernelops&theme=github_dark" alt="GitHub Profile Details" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kernelops&theme=github" alt="GitHub Profile Details" />
       </a>
     </td>
   </tr>
