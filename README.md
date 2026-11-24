@@ -1,7 +1,7 @@
 <h1 align="center">Nishant Hegde</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=B6C2D9&background=0D111700&center=true&vCenter=true&lines=Machine+Learning;Agentic+AI;Cyber+Security;Internet+Of+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=B6C2D9&background=0D111700&center=true&vCenter=true&lines=Agentic+AI;AI+Security;Large+Language+Models;Machine+Learning;Cybersecurity;Cloud+Security
 </div>
 
 <div align="center">
